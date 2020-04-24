@@ -1,0 +1,7 @@
+Json/
+Log/
+node_modules/
+package-lock.json
+.vscode/
+*.bak
+token.txt

@@ -1,0 +1,28 @@
+{
+  "name": "AliasBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "matcher": "^2.0.0",
+    "rimraf": "^2.6.3",
+    "secure-string": "^1.2.1",
+    "wildcard": "^2.0.0"
+  },
+  "devDependencies": {
+    "discord.js": "^11.4.2",
+    "matcher": "^2.0.0",
+    "nodemon": "^1.18.9",
+    "rimraf": "^2.6.3",
+    "secure-string": "^1.2.1",
+    "wildcard": "^2.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
